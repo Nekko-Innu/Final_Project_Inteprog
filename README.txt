@@ -47,3 +47,5 @@ Admin Panel
 -Entering option 5 enables the admin to view admin logs to view the past changes that were made
 -Entering option 6 enables the admin to update a room's current status by entering the room id and providing the needed information
 - Entering 0 logs the guest out and returns to the main menu
+Extra Functions
+-Enter the enter button is required to proceed with some parts of the program
