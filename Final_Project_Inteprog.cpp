@@ -57,6 +57,20 @@ int getValidatedChoice() {
     }
 }
 
+struct Room {};
+
+class RoomManager {};
+
+class PaymentStrategy {};
+
+class CardPayment : public PaymentStrategy {};
+
+class GcashPayment : public PaymentStrategy {};
+
+struct GuestAccount {};
+
+class Admin {};
+
 int main() {
     RoomManager rm;
     Admin admin;
